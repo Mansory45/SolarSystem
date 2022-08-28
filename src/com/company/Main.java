@@ -14,7 +14,7 @@ public class Main {
         omaro.temperature= "12334433kj";
         omaro.name="ferro";
         omaro.radius =1234455455455454;
-        omaro.color= "pink";
+        omaro.color= "green";
 
     }
 
